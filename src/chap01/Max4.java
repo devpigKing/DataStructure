@@ -1,7 +1,7 @@
 package chap01;
 
 
-public class max4 {
+public class Max4 {
 
     static int max4(int a, int b, int c, int d) {
 
