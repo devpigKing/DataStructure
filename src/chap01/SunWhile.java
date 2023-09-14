@@ -19,6 +19,6 @@ public class SunWhile {
         }
 
         System.out.println("1부터 n까지의 합은 : " + sum + " 입니다.");
-
+        System.out.println("i의 값은 : " + i );
     }
 }
